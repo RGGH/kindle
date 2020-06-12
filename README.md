@@ -5,7 +5,7 @@
 See the video of ep2kin converting files here on YouTube : https://youtu.be/7Nh0MvEtbiU
 
 This code can run from any directory, just make sure you set the path in the "machine_path" that matches your machine's name.
-YOu need to install https://calibre-ebook.com/download also.
+You need to install https://calibre-ebook.com/download also.
 
 Once the above has been done. Next, put some epub books in the 'ebooks' directory and run!
 
