@@ -14,4 +14,4 @@ After,
 Check the Kindle folder, your new mobi files should now be in there.
 
 
-# epub.py gets book covers and inserts images into XLSX
+# epub.py gets book covers and inserts the images into XLSX
