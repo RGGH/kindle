@@ -11,3 +11,6 @@ Once the above has been done. Next, put some epub books in the 'ebooks' director
 After, 
 
 Check the Kindle folder, your new mobi files should now be in there.
+
+
+# epub.py gets book covers and inserts images into XLSX
